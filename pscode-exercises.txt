@@ -1,10 +1,17 @@
 // Exercise 1: Calculate the Sum of Two Numbers
 
-(Your pseudocode here)
+Input num1
+Input num2
+
+Sum = num1 + num2
+
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+Input number
+Check if number is divisible by 2
+If yes: Even
+If no: Odd
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -14,6 +21,17 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+a) Input num1, num2, num3, num4, num5
+
+b) Average = Sum divided by 5
+Sum = num 1+num2+num3+num4+num5
+
+c) minimum = smallest of num1, num2, num3, num4, num5
+maximum = largest of num1, num2, num3, num4, num5
+
+d) display minimum
+display maximum
+
+
 
 -- END --
